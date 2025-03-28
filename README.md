@@ -44,6 +44,5 @@ This **interactive Streamlit dashboard** provides insightful visualizations of c
 ## Conclusion
 This project is a valuable asset for businesses aiming to reduce churn and increase customer retention. The insights gained can be used to develop data-driven strategies and improve customer relationships.
 
-📌 **Connect with me on LinkedIn** – [Your LinkedIn Profile](https://linkedin.com/in/yourname)  
-📂 **Project Repository:** [GitHub Link](https://github.com/yourusername/telco-churn-dashboard)
+
 
